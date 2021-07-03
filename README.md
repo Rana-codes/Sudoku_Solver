@@ -4,6 +4,9 @@ Hello, Thank you for showing interest.
 
 This is a C++ program that finds all the possible solutions to a given sudoku using the principles of backtracking.
 Also uses file IO.
+This assignment was assigned by Dr. Gladys Monagan for the course Algorithms and Data Structures II.
+An executable has been provided( sudokuSolver.exe)
+All the Source files have also been provided.
 
 ### Requirements - 
 
