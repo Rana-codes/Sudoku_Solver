@@ -30,11 +30,11 @@ Outpt is provided on the console unless an output file is specified.
 - An Input is compulsory.
 - For output on console 
 
-      numbers.exe -input InFileName
+      sudokuSolver.exe -input InFileName
       
 - For output on a file
 
-      numbers.exe -input InFileName -output OutFileName
+      sudokuSolver.exe -input InFileName -output OutFileName
       
 
 ### Inputing the sudoku - 
