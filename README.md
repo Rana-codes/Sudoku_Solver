@@ -37,7 +37,7 @@ Outpt is provided on the console unless an output file is specified.
       sudokuSolver.exe -input InFileName -output OutFileName
       
 
-### Inputing the sudoku - 
+### Inputing the sudoku- 
 
 The basic format is
 
@@ -49,7 +49,7 @@ row column numberInSudoku
 
 row column numberInSudoku
 
-for a 4x4 sudoku like -
+for a 4x4 sudoku like-
 
      +---+---+---+---+
      |   | 4 |   |   |
@@ -61,7 +61,7 @@ for a 4x4 sudoku like -
      |   |   | 1 |   |
      +---+---+---+---+
 
-The input file will have - 
+The input file will have- 
 
     4 4
     1 2 4
