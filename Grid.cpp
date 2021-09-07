@@ -1,4 +1,5 @@
 // Name: Harsh Rana
+// Instructor and contributor : Dr. Gladys Monagan
 
 #include <iostream>
 #include <fstream>  // for file input and output
